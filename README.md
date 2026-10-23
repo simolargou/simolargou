@@ -8,7 +8,7 @@
   <a href="mailto:l.a.r.g.o.u@hotmail.fr">Contact</a>
 </p>
 
-I'm Mohammed, a developer based in Leipzig with a background in mathematics and training in Data Science & AI Engineering.
+I'm Simo, a developer based in Leipzig with a background in mathematics and training in Data Science & AI Engineering.
 
 I like understanding how things work, then building something useful with them. My work connects Python, machine learning and APIs with interfaces people can actually use.
 
